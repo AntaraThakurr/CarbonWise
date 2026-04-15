@@ -122,7 +122,7 @@ Generate comprehensive PDF-ready reports with:
 
 ```bash
 # Clone the repository
-git clone https://github.com/AbhiramK01/CarbonWise.git
+git clone https://github.com/AntaraThakurr/CarbonWise.git
 cd CarbonWise
 
 # Install Node.js dependencies
